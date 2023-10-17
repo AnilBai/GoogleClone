@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    text-align: center;
+}
+
+.sign-in {
+    width: 80px;
+    height: 40px;
+    margin: 5px;
+}
+
+.words {
+    display: flex;
+    font-size: 60px;
+    font-weight: 400;
+    justify-content: center;
+    font-family: arial, Sans-Serif;
+}
+
+.g1 {
+    color: #4285F4;
+}
+
+.o1 {
+    color: #EA4335;
+}
+
+.o2 {
+    color: #FFBB00;
+}
+
+.g2 {
+    color: #4285F4;
+}
+
+.l {
+    color: #34A853;
+}
+
+.e {
+    color: #EA4335;
+}
+
+.navigation {
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+}
+
+li {
+    margin: 10px;
+
+}
+
+input[type=text] {
+    width: 100%;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border: 0.1px solid #ccc;
+    border-radius: 20px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    box-shadow: 2px 2px #dcdcdc;
+}
+
+.button {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.product-description {
+    font-size: 14px;
+    text-align: center;
+    padding: 20px;
+}
+
+.highlight {
+    color: red;
+}
+
+.product-link {
+    color: #4285f4;
+    text-decoration: none;
+}
